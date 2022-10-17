@@ -1,4 +1,7 @@
 # Audio Adversarial Examples
+This code is copied from https://github.com/carlini/audio_adversarial_examples, for teaching purposes only.
+Copyright belongs to the original creator. If there is any infringement, please contact to delete it.
+
 This is the code corresponding to the paper
 "Audio Adversarial Examples: Targeted Attacks on Speech-to-Text"
 Nicholas Carlini and David Wagner
